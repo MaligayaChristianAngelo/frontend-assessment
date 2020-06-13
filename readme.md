@@ -1,40 +1,30 @@
 Introduction
 ---
-Thanks for taking the time to complete this frontend technical assessment. We will be focusing on software quality (scalability, readability, maintainability, etc.) and your eye for detail. You may include any libraries. Bonus points if SASS/LESS is used and jQuery is not used.
+Hi I'am Christian Angelo M. Maligaya. Thanks for letting me take this frontend technical assessment and to show my output. 
 
-Exercise 1
+Exercise 1 - exercise1result.zip folder
 ---
-Build a responsive page based on the designs.
+Instructions
+-The files are save in EXERCISE1RESULT folder. You can access the exercise1result by opening the INDEX.HTML file using Google of Firefox.
 
-##### Requirements
-1. Match the designs exactly.
-2. Needs to be responsive.
 
-##### Designs
-* exercise1-desktop.png
-* exercise1-mobile.png
+-You can see photoresults on resultscreenshots folder under exercise1result.zip.
 
-##### Assets
-* Desktop banner - http://via.placeholder.com/1920x650
-* Mobile banner - http://via.placeholder.com/600x600
-* Content images - http://via.placeholder.com/400x300
-
-Exercise 2
+Exercise 2 - exercise2result.zip folder
 ---
-Read the `data.json` file and display the data as tabs on desktop and an accordion on mobile.
+Instructions
+-The files are save in EXERCISE2RESULT folder. You can access the exercise1result by opening the INDEX.HTML file using Google of Firefox.
 
-##### Requirements
-1. Display data in tabs on desktop.
-2. Display data in an accordion on mobile.
-3. Only 1 accordion/tab should be open at a time.
-4. Open the first accordion/tab on load.
-5. If the open accordion is selected, close it.
+Screenshots
+-You can see photoresults on resultscreenshots folder under exercise2result.zip
 
-###### Bonus points
-* Improve the user experience with meaningful animations/transitions.
-* Design and styling.
-* Explain why the result of `('b' + 'a' + + 'a' + 'a').toLowerCase()` is `banana`.
 
-Submission
----
-We recommend submitting your completed assessment as a forked repository. Please replace README content with instructions and relevant documentation.
+* Improve the user experience with meaningful animations/transitions.(Already applied)
+* Design and styling.(Already applied)
+
+ Explain why the result of `('b' + 'a' + + 'a' + 'a').toLowerCase()` is `banana`.
+  
+ Answer:When converting values which cannot be converted to number, the result will be NaN. Which means + + turns to NaN
+        then it will become lower case because of .toLowerCase(). NaN + ('b' + 'a' + + 'a' + 'a') when combine together will
+		    become "banana".
+
