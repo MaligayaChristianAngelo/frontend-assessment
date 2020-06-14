@@ -5,14 +5,14 @@ Hi I'am Christian Angelo M. Maligaya. Thanks for letting me take this frontend t
 Exercise 1 - exercise1result.zip folder
 ---
 Instructions
--The files are save in EXERCISE1RESULT folder. You can access the exercise1result by opening the INDEX.HTML file using Google or Firefox.
+-The files are save in EXERCISE1RESULT folder. You can access the exercise1result by opening the INDEX.HTML file using Google or Firefox. You can see the codes using notepad++, sublime or other related platforms.
 
 -You can see photoresults on resultscreenshots folder under exercise1result.zip.
 
 Exercise 2 - exercise2result.zip folder
 ---
 Instructions
--The files are save in EXERCISE2RESULT folder. You can access the exercise1result by opening the INDEX.HTML file using Google of Firefox.
+-The files are save in EXERCISE2RESULT folder. You can access the exercise1result by opening the INDEX.HTML file using Google or Firefox. You can see the codes using notepad++, sublime or other related platforms.
 
 Screenshots
 -You can see photoresults on resultscreenshots folder under exercise2result.zip
